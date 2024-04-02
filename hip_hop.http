@@ -1,0 +1,6 @@
+@hip_hop_HostAddress = http://localhost:5193
+
+GET {{hip_hop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
