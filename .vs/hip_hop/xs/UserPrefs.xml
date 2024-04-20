@@ -1,14 +1,29 @@
 ﻿<Properties StartupConfiguration="{8A4F5EDC-D8F7-43DD-88E3-0B4D9378EFB3}|https">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.hip__hop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="261" Column="30" />
+      <File FileName="../../../../.microsoft/usersecrets/347f9992-7e11-489c-afdb-76360f346d65/secrets.json" />
+      <File FileName="Hip_hopDbContext.cs" />
+      <File FileName="Models/Order.cs" />
+      <File FileName="Models/Item.cs" />
+      <File FileName="Models/OrderType.cs" />
+      <File FileName="Models/PaymentType.cs" />
+      <File FileName="Models/User.cs" />
+      <File FileName="Dtos/OrderDto.cs" />
+      <File FileName="Models/OrderItem.cs" />
+      <File FileName="Dtos/CloseOrderDto.cs" />
+      <File FileName="Dtos/UserDto.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="hip_hop" expanded="True">
-            <Node name="hip_hop" selected="True" />
+          <Node name="hip_hop">
+            <Node name="hip_hop">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -17,7 +32,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.hip__hop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>
